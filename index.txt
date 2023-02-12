@@ -1,2 +1,2 @@
-bugün hava çok soğuk ve yağmur yağıyor.
-bu satır ikinci versiyonun ilk satırıdır.
+bu aslında üçüncü cümledir.
+bu da aslında dördüncü cümledir.
